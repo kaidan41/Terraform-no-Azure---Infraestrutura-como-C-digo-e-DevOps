@@ -1,0 +1,11 @@
+#Verfiicar versão do azure cli
+# az version
+
+#Logar no Azure
+az login
+
+#Criar Grupo de recurso
+# Az group create --location brazilsouth --name rgazureclivscode
+
+#Deletar resource group
+# az group delete --name rgazureclivscode
