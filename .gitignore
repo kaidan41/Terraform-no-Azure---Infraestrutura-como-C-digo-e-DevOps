@@ -1,6 +1,6 @@
-.git
+*.git
 git
-.exe
-.terraform
+*.exe
+*.terraform
 terraform
 /terraform
